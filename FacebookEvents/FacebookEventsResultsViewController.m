@@ -191,12 +191,16 @@
             [formatter setDateFormat:@"yyyy-MM-dd"];
 
             NSString *stringFromDate = [formatter stringFromDate:controller.event.startDate];
+            NSString *enddate = [formatter stringFromDate:controller.event.endDate];
+
             NSLog(@"String : %@",stringFromDate);
             FacebookEventsClassAppDelegate *delegate = (FacebookEventsClassAppDelegate *)[[UIApplication sharedApplication] delegate];
             NSMutableDictionary *params2 = [NSMutableDictionary dictionaryWithObjectsAndKeys:
                                             [delegate facebook].accessToken, @"access_token",
                                             controller.event.title, @"name",
                                             stringFromDate, @"start_time",
+                                            controller.event.location,@"location",
+                                            enddate,@"end_time",
                                             nil];
             
             [[delegate facebook] requestWithGraphPath:@"me/events"
