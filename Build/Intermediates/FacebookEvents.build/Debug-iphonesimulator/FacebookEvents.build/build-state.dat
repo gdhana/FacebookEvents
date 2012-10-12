@@ -1,0 +1,492 @@
+TFacebookEvents
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Info.plist FacebookEvents/FacebookEvents-Info.plist
+cProcessPCH /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch.pth FacebookEvents/FacebookEvents-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/main.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassAppDelegate.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassViewController.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsDetailView.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsResultsViewController.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents normal i386
+cGenerateDSYMFile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app.dSYM /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents
+cCopyStringsFile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj/InfoPlist.strings FacebookEvents/en.lproj/InfoPlist.strings
+cCpResource FacebookEvents/Default.png Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default.png
+cCpResource FacebookEvents/Default@2x.png Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default@2x.png
+cCpResource FacebookEvents/Default-568h@2x.png Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default-568h@2x.png
+cCpResource ../../Documents/FacebookSDK/FacebookSDK.framework/Versions/Current/DeprecatedHeaders/../../../../../../Desktop/FacebookEvents/FacebookEvents/FBConnect.bundle Build/Products/Debug-iphonesimulator/FacebookEvents.app/FBConnect.bundle
+cCompileXIB /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPad.xib
+cCompileXIB /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPhone.xib
+cTouch /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c00000000504A97510000000000028740
+t1347065681
+s165696
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+c00000000504A97540000000000003C50
+t1347065684
+s15440
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000504A97620000000000228FD0
+t1347065698
+s2265040
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000504A9763000000000009C220
+t1347065699
+s639520
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+c00000000504A976C0000000000190FA0
+t1347065708
+s1642400
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/EventKitUI.framework/EventKitUI
+c00000000504A976D0000000000197B80
+t1347065709
+s1670016
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000504A977000000000003DCEF0
+t1347065712
+s4050672
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000504A977000000000000015F7
+t1347065712
+s5623
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Social.framework/Social
+c00000000504A979700000000000E7950
+t1347065751
+s948560
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000504A979B0000000000000E8D
+t1347065755
+s3725
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000504A979E0000000000AB3D60
+t1347065758
+s11222368
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000504A983A0000000000001B54
+t1347065914
+s6996
+
+N/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/libsqlite3.0.dylib
+c00000000504A984B00000000000D1F20
+t1347065931
+s859936
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK/FacebookSDK.framework/FacebookSDK
+c000000005073C37A00000000008451D4
+t1349763962
+s8671700
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK/FacebookSDK.framework/Versions/Current/DeprecatedHeaders/../../../../../../Desktop/FacebookEvents/FacebookEvents/FBConnect.bundle
+c00000000506C6C890000000000000066
+t1349282953
+s102
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEvents.LinkFileList
+c000000005077C9E50000000000000394
+t1350027749
+s916
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassAppDelegate.o
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassViewController.o
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsDetailView.o
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsResultsViewController.o
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch.pth
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app.dSYM
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default.png
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default@2x.png
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FBConnect.bundle
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Info.plist
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/PkgInfo
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj/FacebookEventsClassViewController_iPad.nib
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj/FacebookEventsClassViewController_iPhone.nib
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEvents-Prefix.pch
+c000000005073C2EA000000000000014B
+t1349763818
+s331
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassAppDelegate.m
+c000000005074127F0000000000001D6A
+t1349784191
+s7530
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m
+c0000000050740E0700000000000036AD
+t1349783047
+s13997
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m
+c000000005077BFA20000000000002F25
+t1350025122
+s12069
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m
+c000000005077C93900000000000047E6
+t1350027577
+s18406
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPad.xib
+c000000005073C2EA00000000000014C2
+t1349763818
+s5314
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPhone.xib
+c000000005073D41000000000000017CE
+t1349768208
+s6094
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/InfoPlist.strings
+c000000005073C2EA000000000000002D
+t1349763818
+s45
+
+N/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/main.m
+c000000005073C2EA000000000000018F
+t1349763818
+s399
+
+NFacebookEvents/FacebookEvents-Info.plist
+c000000005073C3110000000000000688
+t1349763857
+s1672
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassAppDelegate.m
+r0
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m
+r0
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m
+r0
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m
+r0
+
+CBuild AST from /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8c15b5650128b641^3e23cd650128b641^---0#1#0#--18"Check dependencies36"7A550A5B-FCDA-4774-B1BD-88C50958D958-
+
+CCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassAppDelegate.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371720550.578919
+e371720550.673119
+r1
+xCompileC
+xBuild/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassAppDelegate.o
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassAppDelegate.mad5094660128b641^3255ac660128b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassAppDelegate.m0000000000000000^4239"CompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassAppDelegate.o FacebookEvents/FacebookEventsClassAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK -include /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassAppDelegate.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassAppDelegate.dia -c /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassAppDelegate.m -o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassAppDelegate.o36"75D66542-8C80-4579-8598-7D08F9B8E870-
+
+CCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassViewController.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371720550.579511
+e371720550.748037
+r1
+xCompileC
+xBuild/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassViewController.o
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m:208:31: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    nameLabel.textAlignment = UITextAlignmentCenter;
+o                              ^
+o/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m4b7694660128b641^0ddec3660128b641^-591"/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m:208:31: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    nameLabel.textAlignment = UITextAlignmentCenter;                              ^/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-371720550#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-371720550#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@203"file://localhost/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2094#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m0000000000000000^207#30#207#30#7785#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@117"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m0000000000000000^4257"CompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassViewController.o FacebookEvents/FacebookEventsClassViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK -include /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassViewController.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassViewController.dia -c /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsClassViewController.m -o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsClassViewController.o36"2364AEA3-227C-40FA-A85D-9B05F7DE10E8-
+
+CCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsDetailView.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371720550.580581
+e371720550.694535
+r1
+xCompileC
+xBuild/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsDetailView.o
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m:19:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation FacebookEventsDetailView
+o                ^
+o/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.h:42:1: note: method definition for 'userDidGrantPermission' not found
+o- (void)userDidGrantPermission;
+o^
+o/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.h:44:1: note: method definition for 'userDidNotGrantPermission' not found
+o- (void)userDidNotGrantPermission;
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m6abc94660128b641^42ccb1660128b641^-643"/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m:19:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation FacebookEventsDetailView                ^/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.h:42:1: note: method definition for 'userDidGrantPermission' not found- (void)userDidGrantPermission;^/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.h:44:1: note: method definition for 'userDidNotGrantPermission' not found- (void)userDidNotGrantPermission;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-371720550#18446744073709551615#0#2(2@56"Method definition for 'userDidGrantPermission' not found-371720550#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@108"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.h0000000000000000^41#0#41#0#971#0#14"Semantic Issue--2@59"Method definition for 'userDidNotGrantPermission' not found-371720550#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@108"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.h0000000000000000^43#0#43#0#1004#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@108"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m0000000000000000^18#16#18#16#468#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@108"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m0000000000000000^4203"CompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsDetailView.o FacebookEvents/FacebookEventsDetailView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK -include /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsDetailView.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsDetailView.dia -c /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsDetailView.m -o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsDetailView.o36"EA71457B-8206-4916-AB1D-AC8F7B8698C7-
+
+CCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsResultsViewController.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371720550.674406
+e371720550.790394
+r1
+xCompileC
+xBuild/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsResultsViewController.o
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:128:6: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    [self presentModalViewController: controller animated:YES];
+o     ^
+o/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:237:1: note: method 'presentModalViewController:animated:' declared here
+o- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:158:6: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    [self dismissModalViewControllerAnimated:YES];
+o     ^
+o/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:240:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:228:3: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [controller dismissModalViewControllerAnimated:YES];
+o         ^
+o/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:240:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:359:36: warning: 'UILineBreakModeWordWrap' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    cell.textLabel.lineBreakMode = UILineBreakModeWordWrap;
+o                                   ^
+o/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:29:5: note: 'UILineBreakModeWordWrap' declared here
+o    UILineBreakModeWordWrap = 0,            // Wrap at word boundaries
+o    ^
+o/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:364:42: warning: 'UILineBreakModeCharacterWrap' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o    cell.detailTextLabel.lineBreakMode = UILineBreakModeCharacterWrap;
+o                                         ^
+o/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:30:5: note: 'UILineBreakModeCharacterWrap' declared here
+o    UILineBreakModeCharacterWrap,           // Wrap at character boundaries
+o    ^
+o5 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m6ec3ac660128b641^de56ca660128b641^-3299"/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:128:6: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    [self presentModalViewController: controller animated:YES];     ^/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:237:1: note: method 'presentModalViewController:animated:' declared here- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:158:6: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    [self dismissModalViewControllerAnimated:YES];     ^/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:240:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:228:3: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [controller dismissModalViewControllerAnimated:YES];         ^/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:240:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:359:36: warning: 'UILineBreakModeWordWrap' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    cell.textLabel.lineBreakMode = UILineBreakModeWordWrap;                                   ^/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:29:5: note: 'UILineBreakModeWordWrap' declared here    UILineBreakModeWordWrap = 0,            // Wrap at word boundaries    ^/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m:364:42: warning: 'UILineBreakModeCharacterWrap' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]    cell.detailTextLabel.lineBreakMode = UILineBreakModeCharacterWrap;                                         ^/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:30:5: note: 'UILineBreakModeCharacterWrap' declared here    UILineBreakModeCharacterWrap,           // Wrap at character boundaries    ^5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-371720550#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-371720550#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@204"file://localhost/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^236#0#236#0#12748#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@119"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m0000000000000000^127#5#127#5#4994#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-371720550#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-371720550#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@204"file://localhost/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^239#0#239#0#13034#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@119"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m0000000000000000^157#5#157#5#6383#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-371720550#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-371720550#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@204"file://localhost/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^239#0#239#0#13034#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@119"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m0000000000000000^227#2#227#2#9559#0#12"Deprecations--2@68"'UILineBreakModeWordWrap' is deprecated: first deprecated in iOS 6.0-371720550#18446744073709551615#0#1(2@39"'UILineBreakModeWordWrap' declared here-371720550#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@203"file://localhost/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^28#4#28#4#1280#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@119"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m0000000000000000^358#35#358#35#15245#0#12"Deprecations--2@73"'UILineBreakModeCharacterWrap' is deprecated: first deprecated in iOS 6.0-371720550#18446744073709551615#0#1(2@44"'UILineBreakModeCharacterWrap' declared here-371720550#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@203"file://localhost/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^29#4#29#4#1351#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@119"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m0000000000000000^363#41#363#41#15799#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@119"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m0000000000000000^4269"CompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsResultsViewController.o FacebookEvents/FacebookEventsResultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK -include /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsResultsViewController.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsResultsViewController.dia -c /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEventsResultsViewController.m -o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEventsResultsViewController.o36"845D0A87-4D8A-40AF-93B1-F33B28F8D92B-
+
+CCompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/main.o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371720550.578897
+e371720550.690597
+r1
+xCompileC
+xBuild/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/main.o
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/main.m375094660128b641^8ecbb0660128b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/main.m0000000000000000^4083"CompileC Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/main.o FacebookEvents/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK -include /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/main.dia -c /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/main.m -o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/main.o36"D6EE9F89-73CC-49ED-AED6-D5B89C142FF9-
+
+CCompileXIB /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPad.xib
+s371720551.645315
+e371720556.012020
+r1
+xCompileXIB
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPad.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compiling /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPad.xibc442a5670128b641^b519036c0128b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPad.xib0000000000000000^1072"CompileXIB FacebookEvents/en.lproj/FacebookEventsClassViewController_iPad.xib    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode_4.5.app/Contents/Developer/usr/bin/..    /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj/FacebookEventsClassViewController_iPad.nib /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPad.xib --sdk /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"EBB0700B-01B1-4730-8DA6-12E1DBFD4BEA-
+
+CCompileXIB /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPhone.xib
+s371720551.669936
+e371720556.012025
+r1
+xCompileXIB
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPhone.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compiling /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPhone.xib7594ab670128b641^8714036c0128b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPhone.xib0000000000000000^1078"CompileXIB FacebookEvents/en.lproj/FacebookEventsClassViewController_iPhone.xib    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode_4.5.app/Contents/Developer/usr/bin/..    /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj/FacebookEventsClassViewController_iPhone.nib /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/FacebookEventsClassViewController_iPhone.xib --sdk /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"273E834E-77C4-4515-9539-AF4B342320A4-
+
+CCopyStringsFile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj/InfoPlist.strings FacebookEvents/en.lproj/InfoPlist.strings
+s371720551.613550
+e371720551.720421
+r1
+xCopyStringsFile
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj/InfoPlist.strings
+xFacebookEvents/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy FacebookEvents/en.lproj/InfoPlist.stringse5279d670128b641^a06eb8670128b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/en.lproj/InfoPlist.strings0000000000000000^653"CopyStringsFile Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj/InfoPlist.strings FacebookEvents/en.lproj/InfoPlist.strings    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/en.lproj -- FacebookEvents/en.lproj/InfoPlist.strings36"CFA425E8-3236-42B5-A7BB-8E300E64EFB8-
+
+CCpResource ../../Documents/FacebookSDK/FacebookSDK.framework/Versions/Current/DeprecatedHeaders/../../../../../../Desktop/FacebookEvents/FacebookEvents/FBConnect.bundle Build/Products/Debug-iphonesimulator/FacebookEvents.app/FBConnect.bundle
+s371720551.644876
+e371720551.861394
+r1
+xCpResource
+x../../Documents/FacebookSDK/FacebookSDK.framework/Versions/Current/DeprecatedHeaders/../../../../../../Desktop/FacebookEvents/FacebookEvents/FBConnect.bundle
+xBuild/Products/Debug-iphonesimulator/FacebookEvents.app/FBConnect.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/FacebookEvents.app/FBConnect.bundlefa26a5670128b641^1b85dc670128b641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FBConnect.bundle000000000080d041^931"CpResource ../../Documents/FacebookSDK/FacebookSDK.framework/Versions/Current/DeprecatedHeaders/../../../../../../Desktop/FacebookEvents/FacebookEvents/FBConnect.bundle Build/Products/Debug-iphonesimulator/FacebookEvents.app/FBConnect.bundle    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK/FacebookSDK.framework/Versions/Current/DeprecatedHeaders/../../../../../../Desktop/FacebookEvents/FacebookEvents/FBConnect.bundle /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app36"E9209FEE-C072-407D-9CBB-B82300D163CD-
+
+CCpResource FacebookEvents/Default-568h@2x.png Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default-568h@2x.png
+s371720551.615072
+e371720551.643564
+r1
+xCpResource
+xFacebookEvents/Default-568h@2x.png
+xBuild/Products/Debug-iphonesimulator/FacebookEvents.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default-568h@2x.pngba869d670128b641^b003ab670128b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default-568h@2x.png000000000080d041^694"CpResource "FacebookEvents/Default-568h@2x.png" "Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default-568h@2x.png"    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/Default-568h@2x.png" /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app36"1BB6D204-7C83-4AF9-9F7D-22FEFC974E49-
+
+CCpResource FacebookEvents/Default.png Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default.png
+s371720551.614036
+e371720551.668669
+r1
+xCpResource
+xFacebookEvents/Default.png
+xBuild/Products/Debug-iphonesimulator/FacebookEvents.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default.pngc8419d670128b641^e3a7ad670128b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default.png000000000080d041^664"CpResource FacebookEvents/Default.png Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default.png    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/Default.png /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app36"16F6A409-6B5B-4370-BCA8-3CDA1C6BE732-
+
+CCpResource FacebookEvents/Default@2x.png Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default@2x.png
+s371720551.614052
+e371720551.643513
+r1
+xCpResource
+xFacebookEvents/Default@2x.png
+xBuild/Products/Debug-iphonesimulator/FacebookEvents.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default@2x.pngd0439d670128b641^5800ab670128b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default@2x.png000000000080d041^679"CpResource "FacebookEvents/Default@2x.png" "Build/Products/Debug-iphonesimulator/FacebookEvents.app/Default@2x.png"    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/Default@2x.png" /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app36"28A754A4-4AE1-4AA8-BBFA-9D99272AB8FD-
+
+CGenerateDSYMFile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app.dSYM /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents
+s371720551.377155
+e371720551.604837
+r1
+xGenerateDSYMFile
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app.dSYM
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generating /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app.dSYMa29c60670128b641^edd69a670128b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app.dSYM000000000080d041^751"GenerateDSYMFile Build/Products/Debug-iphonesimulator/FacebookEvents.app.dSYM Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents -o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app.dSYM36"DCD3BB2C-4B44-49C6-B85C-864B89BD6292-
+
+CLd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents normal i386
+s371720550.797072
+e371720551.369900
+r1
+xLd
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents8c2fce660128b641^3ab25e670128b641^---0#0#0#--1786"Ld Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents normal i386    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator -L/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK/FacebookSDK.framework/Versions/A -L/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK/FacebookSDK.framework/Versions/Current -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK -filelist /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/Objects-normal/i386/FacebookEvents.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework EventKit -framework EventKitUI -framework Accounts -framework AdSupport -framework CoreLocation -lsqlite3.0 -framework Social -framework UIKit -framework Foundation -framework CoreGraphics -framework FacebookSDK -o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/FacebookEvents36"0CC912D6-20DE-4A23-B104-014D7486A91B-
+
+CProcessInfoPlistFile /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Info.plist FacebookEvents/FacebookEvents-Info.plist
+s371720549.805931
+e371720549.810553
+r1
+xProcessInfoPlistFile
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Info.plist
+xFacebookEvents/FacebookEvents-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Process FacebookEvents/FacebookEvents-Info.plistf261ce650128b641^f582cf650128b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEvents-Info.plist0000000000000000^770"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/FacebookEvents.app/Info.plist FacebookEvents/FacebookEvents-Info.plist    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FacebookEvents/FacebookEvents-Info.plist -genpkginfo /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app/Info.plist36"B6E7C944-D9CC-4EB0-BACE-370A3CB8C65C-
+
+CProcessPCH /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch.pth FacebookEvents/FacebookEvents-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371720549.820099
+e371720550.572043
+r1
+xProcessPCH
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch.pth
+xFacebookEvents/FacebookEvents-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile FacebookEvents/FacebookEvents-Prefix.pch3d0fd2650128b641^3f7392660128b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEvents-Prefix.pch0000000000000000^3986"ProcessPCH Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch.pth FacebookEvents/FacebookEvents-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-generated-files.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-own-target-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-all-target-headers.hmap -iquote /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/FacebookEvents-project-headers.hmap -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources/i386 -I/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/FacebookEvents.build/Debug-iphonesimulator/FacebookEvents.build/DerivedSources -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator -F/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/../../Documents/FacebookSDK --serialize-diagnostics /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch.dia -c /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/FacebookEvents/FacebookEvents-Prefix.pch -o /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch.pth -MMD -MT dependencies -MF /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Intermediates/PrecompiledHeaders/FacebookEvents-Prefix-gbsunfosqmthuxcbkdvonzrwsago/FacebookEvents-Prefix.pch.d36"071FC190-DEB1-4516-AB45-3CFAB1DF9042-
+
+CProcessPCH /Users/dhanasekar.gunabalan/Library/Developer/Xcode/DerivedData/FacebookEvents-gglttjrwmxqjruhkdouphdbteddn/Index/PrecompiledHeaders/FacebookEvents-Prefix-bqjkswlbzypmbgeektkjljctqegc_ast/FacebookEvents-Prefix.pch.pth FacebookEvents/FacebookEvents-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app
+s371720556.020688
+e371720556.066409
+r1
+xTouch
+x/Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.appc05a056c0128b641^2a01116c0128b641^---0#0#0#--452"Touch Build/Products/Debug-iphonesimulator/FacebookEvents.app    cd /Users/dhanasekar.gunabalan/Desktop/FacebookEvents    setenv PATH "/Applications/Xcode_4.5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_4.5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dhanasekar.gunabalan/Desktop/FacebookEvents/Build/Products/Debug-iphonesimulator/FacebookEvents.app36"2448F06C-EC2C-4234-B1B3-B4F6A6C7097F-
+
